@@ -1,0 +1,252 @@
+PickUpLocationId,pickupName,pickupNumber,pickupStreet,pickupCity,pickupState,pickupPostalCode,pickupLatitude,pickupLongitude,PickUpLocationType ,DropoffLocationId,dropoffName,dropoffNumber,dropoffStreet,dropoffCity,dropoffState,dropoffPostalCode,dropoffLatitude,dropoffLongitude,DropoffLocationType 
+19309,770 Danielsville Road ,770,Danielsville Road ,Athens,GA,30601,33.982388,-83.359931,11,19505,185 Collins Ind Boulevard,185,Collins Ind Boulevard,Athens,GA,30601,33.982388,-83.359931,11
+20536,20 Srini,101,Fern Ridge Court,Athens,GA,30601,33.97738,-83.375901,4,18990,,770,Danielsville Rd,Athens,GA,30601,33.982388,-83.359931,11
+19350,435 U.S. 29,435,U.s. 29,Athens,GA,30601,33.988115,-83.344301,11,19309,770 Danielsville Road,770,Danielsville Road,Athens,GA,30601,33.982388,-83.359931,11
+20679,310 Athena Drive,310,Athena Drive,Athens,GA,30601,33.979383,-83.34314,11,20132,Ah house,770,Danielsville Road,Athens,GA,30601,33.982388,-83.359931,4
+19807,Jonas Avenue,135,Jonas Avenue,Athens,GA,30601,33.972813,-83.372834,4,20474,Home,770,Danielsville Road,Athens,GA,30601,33.982388,-83.359931,4
+19645,1505 Danielsville Road,1505,Danielsville Road,Athens,GA,30601,33.995865,-83.35382,11,20538,Save Location3,770,Danielsville Road,Athens,GA,30601,33.982388,-83.359931,4
+19494,133 Jonas Avenue,133,Jonas Avenue,Athens,GA,30601,33.972986,-83.373106,11,19828,Test123,10,Pine Hollow,Athens,GA,30601,33.983428,-83.358727,4
+20819,tset1234,133,Jonas Avenue,Athens,GA,30601,33.972986,-83.373106,4,19939,old hull,,205 Collins Industrial,Athens,GA,30601,33.983428,-83.358727,4
+19611,455 U.S. 29,455,U.s. 29,Athens,GA,30601,33.987749,-83.343566,11,19978,My home,10,Pine Hollow,Athens,GA,30601,33.983428,-83.358727,4
+19544,200 Trail Creek Street,200,Trail Creek Street,Athens,GA,30601,33.96802,-83.356738,11,20126,old hull12,10,Pine Hollow,Athens,GA,30601,33.983428,-83.358727,11
+19848,Test,200,Trail Creek Street,Athens,GA,30601,33.96802,-83.356738,4,19543,935 Danielsville Road,935,Danielsville Road,Athens,GA,30601,33.984317,-83.360594,11
+20100,Best 1,200,Trail Creek Street,Athens,GA,30601,33.96802,-83.356738,4,19322,645 Danielsville Road,645,Danielsville Road,Athens,GA,30601,33.981287,-83.362542,11
+19669,1510 Danielsville Road,1510,Danielsville Road,Athens,GA,30601,33.995712,-83.352431,11,19324,42 Pine Lane Drive,42,Pine Lane Drive,Athens,GA,30601,33.982168,-83.356738,11
+19873,Home,1510,Danielsville Road,Athens,GA,30601,33.995712,-83.352431,4,19706,969 Danielsville Road,969,Danielsville Road,Athens,GA,30601,33.985032,-83.360999,11
+20030,Homev,1510,Danielsville Road,Athens,GA,30601,33.995712,-83.352431,11,19505,185 Collins Ind Boulevard,185,Collins Ind Boulevard,Athens,GA,30601,33.980209,-83.357485,11
+20135,Dine,1510,Danielsville Road,Athens,GA,30601,33.995712,-83.352431,4,20082,Hyderabad,160,Collins Ind Boulevard,Athens,GA,30601,33.979502,-83.358625,2
+19809,Ruth Street,340,Ruth Street,Athens,GA,30601,33.973105,-83.373706,4,20540,105 Cabernet Street,105,Cabernet Street,Athens,GA,30601,33.98213,-83.356123,7
+19542,475 First Street,475,First Street,Athens,GA,30601,33.968301,-83.365394,11,19331,600 Danielsville Road,600,Danielsville Road,Athens,GA,30601,33.980105,-83.362685,11
+19534,145 Trail Creek Street,145,Trail Creek Street,Athens,GA,30601,33.96759,-83.362644,11,20201,JinPing,10,Sleepy Hollow,Athens,GA,30601,33.983302,-83.355839,3
+19808,Jonas Avenue,170,Jonas Avenue,Athens,GA,30601,33.971607,-83.372482,4,20139,Friend home,35,Braeburn Drive,Athens,GA,30601,33.983467,-83.355821,4
+19483,610 Old Hull Road,610,Old Hull Road,Athens,GA,30601,33.984408,-83.341945,11,19963,some other place,,Danielsville Rd,Athens,GA,30601,33.979885,-83.363092,3
+19805,Jonas Avenue,162,Jonas Avenue,Athens,GA,30601,33.972198,-83.373325,4,19571,160 Collins Ind Boulevard,160,Collins Ind Boulevard,Athens,GA,30601,33.978868,-83.358521,11
+19709,450 Fourth Street,450,Fourth Street,Athens,GA,30601,33.968024,-83.365628,11,19541,925 Danielsville Road,925,Danielsville Road,Athens,GA,30601,33.984503,-83.363635,11
+19463,129 Trail Creek Street,129,Trail Creek Street,Athens,GA,30601,33.967431,-83.362924,11,20437,HOME,160,Collins Ind Blvd,Athens,GA,30601,33.980385,-83.355931,3
+19312,186 Trail Creek Street,186,Trail Creek St,Athens,GA,30601,33.967194,-83.361513,11,19354,499 North Avenue,499,North Avenue,Athens,GA,30601,33.97928,-83.363164,11
+20025,186 trail creek street,180,Trail Creek Street,Athens,GA,30601,33.967194,-83.361513,4,20334,JinPing,100,Freeman Dr,Athens,GA,30601,33.980114,-83.364132,3
+20097,Test2,180,Trail Creek Street,Athens,GA,30601,33.967194,-83.361513,4,20565,HOME,100,Freeman Dr,Athens,GA,30601,33.980114,-83.364132,3
+20098,Test1,180,Trail Creek Street,Athens,GA,30601,33.967194,-83.361513,4,20578,HOME,98,Freeman Dr,Athens,GA,30601,33.980096,-83.364154,3
+20142,186 trail,180,Trail Creek Street,Athens,GA,30601,33.967194,-83.361513,11,19446,96 Sleepy Hollow,96,Sleepy Hollow,Athens,GA,30601,33.983876,-83.35521,11
+20732,HOME,186,Trail Creek St,Athens,GA,30601,33.967194,-83.361513,3,19523,124 Sunny Hills Drive,124,Sunny Hills Drive,Athens,GA,30601,33.982814,-83.365116,11
+21040,180 trail,180,Trail Creek Street,Athens,GA,30601,33.967194,-83.361513,11,20513,2 office,124,Sunny Hills Drive,Athens,GA,30601,33.982814,-83.365116,4
+19677,205 Trail Creek Street,205,Trail Creek Street,Athens,GA,30601,33.967109,-83.35964,11,20525,Ofc2,124,Sunny Hills Drive,Athens,GA,30601,33.982814,-83.365116,4
+20657,HOME,180,Trail Creek St,Athens,GA,30601,33.967154,-83.361666,3,20550,Test1,124,Sunny Hills Drive,Athens,GA,30601,33.982814,-83.365116,4
+19325,455A U.S. 29,455a,U.s. 29,Athens,GA,30601,33.989044,-83.343223,11,19958,170 Collins Ind Boulevard,170,Collins Ind Boulevard,Athens,GA,30601,33.978396,-83.357785,11
+19602,180 Trail Creek Street,180,Trail Creek Street,Athens,GA,30601,33.966988,-83.360884,11,20042,170 Collins Ind Boulevard,170,Collins Ind Boulevard,Athens,GA,30601,33.978396,-83.357785,11
+20138,Park,164,Trail Creek Street,Athens,GA,30601,33.966941,-83.361733,4,20471,2nd Location,170,Collins Ind Boulevard,Athens,GA,30601,33.978396,-83.357785,4
+19693,290 Nowhere Road,290,Nowhere Road,Athens,GA,30601,33.997882,-83.362218,11,20529,11 Srini,170,Collins Ind Boulevard,Athens,GA,30601,33.978396,-83.357785,4
+19803,Ruth Street,239,Ruth Street,Athens,GA,30601,33.973021,-83.375021,4,20533,20 Srini,170,Collins Ind Boulevard,Athens,GA,30601,33.978396,-83.357785,4
+19375,XMQ5+F2 Athens GA USA,Null,Null,Athens,GA,Null,33.988646,-83.342422,11,19422,205 Old Hull Road,205,Old Hull Road,Athens,GA,30601,33.97804,-83.358901,11
+19392,Dropoff Anywhere (PU_ONLY rule),200,Destination Blvd,Athens,GA,30601,33.988646,-83.342422,11,19335,17 Braeburn Drive,17,Braeburn Drive,Athens,GA,30601,33.984449,-83.354781,11
+19763,Nikhil office,,Xmq5+f2 Athens Ga Usa,Athens,GA,,33.988646,-83.342422,4,19961,My best,200,Olympic Drive,Athens,GA,30601,33.984449,-83.354781,4
+19783,XMQ5+F2 Athens GA USA,,Xmq5+f2 Athens Ga Usa,Athens,GA,,33.988646,-83.342422,4,19998,asdf,17,Braeburn Drive,Athens,GA,30601,33.984449,-83.354781,4
+19581,140 Trail Creek Street,140,Trail Creek Street,Athens,GA,30601,33.966574,-83.362385,11,19999,asdf,17,Braeburn Drive,Athens,GA,12134,33.984449,-83.354781,0
+20345,Home,140,Trail Creek Street,Athens,GA,30601,33.966574,-83.362385,4,20000,asdf,17,Braeburn Drive,Athens,GA,,33.984449,-83.354781,0
+20396,Inicio,140,Trail Creek Street,Atenas,GA,30601,33.966574,-83.362385,11,20004,asdf,17,Braeburn Drive,Athens,GA,30601,33.984449,-83.354781,4
+19486,184 Trail Creek Street,184,Trail Creek Street,Athens,GA,30601,33.96637,-83.360387,11,20076,Home,17,Braeburn Drive,Athens,GA,30601,33.984449,-83.354781,11
+19660,200 Olympic Drive,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,11,20465,Test Save Location 1,17,Braeburn Drive,Athens,GA,30601,33.984449,-83.354781,4
+19846,Rsm,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19311,198 Old Hull Road,198,Old Hull Rd,Athens,GA,30601,33.977331,-83.359934,11
+19858,Home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19347,198 Old Hull Road,100,Pickup St,Athens,GA,30601,33.977331,-83.359934,11
+19932,Home Test,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19965,Test Home,204,Old Hull Road,Athens,GA,30601,33.977331,-83.359934,4
+19935,Drive,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,20917,work,198,Old Hull Rd,Athens,GA,30601,33.977331,-83.359934,4
+19952,Bro's home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,20487,HOME,118,Old Hull Rd,Athens,GA,30601,33.977481,-83.361659,3
+19955,TEST HOME,160,Maxey Boulevard,Athens,GA,30601,33.969052,-83.34838,4,20812,Hi home,102,Freeman Drive,Athens,GA,30601,33.979792,-83.365248,4
+19980,Best home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,20397,My Home,102,Freeman Drive,Athens,GA,30601,33.978971,-83.364657,4
+19981,Best home,200,Olympic Drive,Athens,GA,,33.969052,-83.34838,4,20404,My Home,102,Freeman Drive,Athens,GA,30601,33.978971,-83.364657,11
+19982,Best home,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,4,19416,188 Collins Ind Boulevard,188,Collins Ind Boulevard,Athens,GA,30601,33.978254,-83.356069,11
+19983,Best home,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,4,19442,488 North Avenue,488,North Avenue,Athens,GA,30601,33.978467,-83.364308,11
+19984,Best home,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,0,19773,Athens-PointB,100,Freeman Drive,Athens,GA,30601,33.979649,-83.365506,1
+19985,Best home 12,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,0,20425,100 Freeman Drive,100,Freeman Drive,Athens,GA,30601,33.979293,-83.365281,9
+19986,Best home 12 123123123,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,0,19959,100 Freeman Drive,100,Freeman Drive,Athens,GA,30601,33.979295,-83.365289,11
+19987,sadf,200,Olympic Drive,Athens,GA,R,33.969052,-83.34838,0,19440,185 Freeman Circle,185,Freeman Circle,Athens,GA,30601,33.981741,-83.366669,11
+19988,sadf 213,200,Olympic Drive,,GA,R,33.969052,-83.34838,0,19321,98 Freeman Drive,98,Freeman Drive,Athens,GA,30601,33.979011,-83.36546,11
+19989,sadf 213,200,sadf,,GA,R,33.969052,-83.34838,3,19742,215 Old Hull Road,215,Old Hull Road,Athens,GA,30601,33.977664,-83.355951,11
+20015,200 Olympic Drive,200,1440 Olympic Drive,Athens,GA,30601,33.969052,-83.34838,11,20026,215 Old Hull Road,215,Old Hull Road,Athens,GA,30601,33.977664,-83.355951,11
+20044,Future home,129,Martin Court,Athens,GA,30601,33.969052,-83.34838,4,19328,150 Townon Drive,150,Townon Drive,Athens,GA,30601,33.97805,-83.365159,11
+20090,2 home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19349,300 Freeman Drive,300,Freeman Drive,Athens,GA,30601,33.987153,-83.364699,11
+20091,3 home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,20820,test456,195,Collins Ind Boulevard,Athens,GA,30601,33.982459,-83.352206,4
+20095,Test home,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19452,498 North Avenue,498,North Avenue,Athens,GA,30601,33.97619,-83.362334,11
+20101,Test home 1,200,Olympic Drive,Athens,GA,30601,33.969052,-83.34838,4,19872,Home,100,Stanelle Drive,Athens,GA,30601,33.97784,-83.365576,4
+21086,work,198,Olympic Drive,Athens,GA,R,33.969052,-83.34838,4,20346,Test,100,Stanelle Drive,Athens,GA,30601,33.97784,-83.365576,4
+19647,220 Pinefield Way,220,Pinefield Way,Athens,GA,30607,33.99291,-83.375209,11,20497,111 Cherry Lane,111,Cherry Lane,Athens,GA,30601,33.97784,-83.365576,9
+19566,505 Olympic Drive,505,Olympic Drive,Athens,GA,30601,33.967451,-83.351041,11,19741,140 Stanelle Drive,140,Stanelle Drive,Athens,GA,30601,33.978249,-83.366108,11
+19804,Mandy Drive,171,Mandy Drive,Athens,GA,30601,33.973986,-83.377479,4,20547,Offc,140,Stanelle Drive,Athens,GA,30601,33.978249,-83.366108,4
+19527,575 Olympic Drive,575,Olympic Drive,Athens,GA,30601,33.968186,-83.349098,11,19606,138 Boley Drive,138,Boley Drive,Athens,GA,30601,33.980664,-83.367709,11
+19806,Ruth Drive,230,Ruth Drive,Athens,GA,30601,33.96961,-83.373466,4,20208,11 home,195,Collins Ind Boulevard,Athens,GA,30601,33.980534,-83.352146,4
+19843,Home,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.97466,-83.378342,4,20549,Save Loc1,197,Collins Industrial Blvd,Athens,GA,30601,33.980534,-83.352146,4
+20054,save,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.97466,-83.378342,4,20562,Test home,197,Collins Industrial Blvd,Athens,GA,30601,33.980534,-83.352146,4
+20470,My First Location,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.97466,-83.378342,4,19735,195 Collins Ind Boulevard,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,11
+20501,1110 Doctor Martin Luther King Junior Parkway,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.97432,-83.378312,4,19831,Test123456,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+20254,,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.974765,-83.378694,2,19941,old hull,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+20421,TestJanaLocationApril25V1,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.974765,-83.378694,10,20041,Test,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+20423,TestJLocationApril25V102,1110,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.974765,-83.378694,10,20045,Best,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+19326,Old Monroe Road,,Old Monroe Road,Athens,GA,30601,33.990141,-83.341048,11,20050,Home,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+19412,Hwy 29 at Athens Tech Bldg P,Null,Null,Athens,GA,30601,33.989913,-83.340877,11,20070,195 Collins Ind Boulevard,196,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,7
+19610,Athens Downtown,,Hwy 29 At Athens Tech Bldg P,Athens,GA,30601,33.989913,-83.340877,4,20088,John home,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+19620,Home,,Hwy 29 At Athens Tech Bldg P,Athens,GA,30601,33.989913,-83.340877,4,20096,Test1,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+19653,1629 Danielsville Road,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,11,20099,Test2,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,4
+19966,Home,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,4,20127,old hull4,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,11
+20051,Best home,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,4,20181,195 Collins Ind Boulevard,195,Collins Ind Boulevard,Athens,GA,30601,33.980533,-83.352145,8
+20052,Best home 1234,1629,Danielsville Road,Athens,GA,500050,33.999488,-83.354888,1,20372,195 Collins,197,Collins Industrial Blvd,Athens,GA,30601,33.980533,-83.352145,4
+20402,Mother Home,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,4,20552,Save1,197,Collins Industrial Blvd,Athens,GA,30601,33.980533,-83.352145,4
+20403,Mother Home,1629,Danielsville Road,Atenas,GA,30601,33.999488,-83.354888,11,20672,Home,197,Collins Industrial Blvd,Athens,GA,30601,33.980533,-83.352145,4
+20566,Save1,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,4,20692,Collins,197,Collins Industrial Blvd,Athens,GA,30601,33.980533,-83.352145,4
+20723,Hello,1629,Danielsville Road,Athens,GA,30601,33.999488,-83.354888,4,20693,Collins2,197,Collins Industrial Blvd,Athens,GA,30601,33.980533,-83.352145,4
+19460,750 Old Hull Road,750,Old Hull Road,Athens,GA,30601,33.988432,-83.339589,11,20871,test,124,Sunny Hills Drive,Athens,GA,30601,33.980533,-83.352145,4
+19810,Sdfgsdf,974b,Dr M L King Pkwy,Athens,GA,30601,33.970267,-83.375933,4,19458,130 Stanelle Drive,130,Stanelle Drive,Athens,GA,30601,33.977969,-83.366068,11
+19569,113 Moreland Avenue,113,Moreland Avenue,Athens,GA,30601,33.964375,-83.361946,11,19158,,490,North Ave,Athens,GA,30601,33.975737,-83.36201,11
+21057,Drop loc,113,Moreland Avenue,Athens,GA,30601,33.964375,-83.361946,4,20068,Home,490,North Avenue,Athens,GA,30601,33.975737,-83.36201,4
+21061,Drop location,113,Moreland Avenue,Athens,GA,30601,33.964375,-83.361946,11,19479,118 Old Hull Road,118,Old Hull Road,Athens,GA,30601,33.976256,-83.363789,11
+19714,315 Nowhere Road,315,Nowhere Road,Athens,GA,30601,33.999934,-83.365347,11,20703,,135,Stanelle Dr,Athens,GA,30601,33.977587,-83.366143,1
+19686,330 Nowhere Road,330,Nowhere Road,Athens,GA,30601,34.000452,-83.362256,11,20706,,145,Stanelle Dr,Athens,GA,30601,33.977655,-83.366324,1
+19716,563 North Peter Street,563,North Peter Street,Athens,GA,30601,33.964406,-83.356213,11,19513,198 Old Hull Road,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,11
+19736,539 Olympic Drive,539,Olympic Drive,Athens,GA,30601,33.965064,-83.352503,11,19847,Home1,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,4
+20511,HOME,113,Moreland Ave,Athens,GA,30601,33.964093,-83.362403,3,19861,Home,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,4
+20804,HOME,220,Pinefield Way,Athens,GA,30607,33.992978,-83.378319,3,19979,This home,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,4
+19710,300 Nowhere Road,300,Nowhere Road,Athens,GA,30601,34.001008,-83.361412,11,20038,198 Old Hull Road,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,11
+19720,172 West Carver Drive,172,West Carver Drive,Athens,GA,30601,33.963636,-83.358866,11,20134,Cafe,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,4
+19646,373 Flint Street,373,Flint Street,Athens,GA,30601,33.96546,-83.370024,11,20141,198 Old,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,11
+19498,337 Flint Street,337,Flint Street,Athens,GA,30601,33.964746,-83.369615,11,20335,198 Old Hull Road,,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,11
+19739,205 Third Street,205,Third Street,Athens,GA,30601,33.96398,-83.367409,11,20557,test home 2,197,Collins Industrial Blvd,Athens,GA,30601,33.975251,-83.359422,4
+19609,Home,,Xj7x+f5 Athens Ga Usa,Athens,GA,,33.963737,-83.352081,4,20923,my office,198,Old Hull Road,Athens,GA,30601,33.975251,-83.359422,4
+19712,329 Nowhere Road,329,Nowhere Road,Athens,GA,30601,34.000484,-83.36997,11,20380,238 Old Hull Road,238,Old Hull Road,Athens,GA,30601,33.976368,-83.355213,11
+19648,605 Olympic Drive,605,Olympic Drive,Athens,GA,30601,33.966881,-83.344514,11,20705,,165,Stanelle Dr,Athens,GA,30601,33.977783,-83.366676,1
+19829,Fgdfgh,85,North Avenue,Athens,GA,30601,33.965499,-83.373405,4,19724,175 Stanelle Drive,175,Stanelle Drive,Athens,GA,30601,33.978524,-83.367352,11
+20078,TestJanaLocationV2_Copy,129,Trail Creek Street,Athens,GA,30601,34.00032,-83.34851,2,19317,210 Hull Road,210,Hull Road,Athens,GA,30601,33.98683,-83.352979,11
+20079,TestJanaLocationV2_Copy_V2,129,Trail Creek Street,Athens,GA,R,34.00032,-83.34851,2,19862,Home,210,Hull Road,Athens,GA,30601,33.98683,-83.352979,4
+20080,TestJanaLocationV2_Copy3,129,Trail Creek Street,Athens,GA,R,34.00032,-83.34851,2,19867,Home Test,210,Hull Road,Athens,GA,30601,33.98683,-83.352979,4
+19708,450 Nowhere Road,450,Nowhere Road,Athens,GA,30601,34.002412,-83.364892,11,19934,Hull Road,210,Hull Road,Athens,GA,30601,33.98683,-83.352979,4
+19853,Home2,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19441,496 North Avenue,496,North Avenue,Athens,GA,30601,33.976048,-83.364265,11
+19854,Hom,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19336,155 Stanelle Drive,155,Stanelle Drive,Athens,GA,30601,33.977969,-83.366969,11
+19856,John,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19159,,490,North Ave,Athens,GA,30601,33.976,-83.36461,1
+19949,Gh,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19319,125 Kenwood Drive,125,Kenwood Drive,Athens,GA,30601,33.988425,-83.365445,11
+19956,Test home,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19841,Home8,200,Olympic Drive,Athens,GA,30601,33.988425,-83.365445,4
+19957,1000 Old Creek Road,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,11,19942,Test,125,Kenwood Drive,Athens,GA,30601,33.988425,-83.365445,4
+20043,My home,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,20069,Test,125,Kenwood3231 Drive,Athens,GA,30601,33.988425,-83.365445,4
+20072,Best home,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,20394,Youth Services Department,125,Kenwood Drive,Athens,GA,30601,33.988425,-83.365445,4
+20348,W thrjehehr,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,20395,Departamento de Servicios Juveniles,125,Kenwood Drive,Athens,GA,30601,33.988425,-83.365445,11
+20467,Add Location test1,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,20535,Office,125,Kenwood Drive,Athens,GA,30601,33.988425,-83.365445,4
+20492,Test,1000,Old Creek Road,Athens,GA,30607,33.997822,-83.37632,4,19728,151 Boley Drive,151,Boley Drive,Athens,GA,30601,33.980105,-83.368844,11
+20518,Home,1775,Olympic Drive,Athens,GA,30601,33.997822,-83.37632,4,20553,Ofc,151,Boley Drive,Athens,GA,30601,33.980105,-83.368844,4
+19521,670 Olympic Drive,670,Olympic Drive,Athens,GA,30601,33.965767,-83.345209,11,20677,225 Collins Ind Boulevard,225,Collins Ind Blvd,Athens,GA,30601,33.979995,-83.350993,3
+19547,530 Old Commerce Road,530,Old Commerce Road,Athens,GA,30607,33.999358,-83.374097,11,19652,355 Boley Drive,355,Boley Drive,Athens,GA,30601,33.982031,-83.369384,11
+19615,420 Doctor Martin Luther King Junior Parkway,420,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.963272,-83.369372,11,19404,125 Northcrest Drive,125,Northcrest Drive,Athens,GA,30601,33.976475,-83.366368,11
+20652,1000 Old Creek Road,1000,Old Creek Rd,Athens,GA,30607,33.99653,-83.37809,3,20344,105 test,105,Cabernet Street,Athens,GA,30601,33.989903,-83.356697,4
+20805,Test home,1132,Old Creek Road,Athens,GA,30607,33.99653,-83.37809,4,20673,Save1,105,Cabernet Street,Athens,GA,30601,33.989903,-83.356697,4
+19670,256 Willow Street,256,Willow Street,Athens,GA,30601,33.963655,-83.370857,11,19729,615 Creeks Edge Drive,615,Creeks Edge Drive,Athens,GA,30601,33.983818,-83.369466,11
+19675,256 Willow Street,256,Willow Street,Athens,GA,123450,33.963655,-83.370857,1,19401,375 Boley Drive,375,Boley Drive,Athens,GA,30601,33.981243,-83.369587,11
+19715,690 Indian Hills Road,690,Indian Hills Road,Athens,GA,30601,33.966151,-83.344144,11,19560,293 Old Hull Road,293,Old Hull Road,Athens,GA,30601,33.975656,-83.354496,11
+19753,139 Oakridge Avenue,139,Oakridge Avenue,Athens,GA,30601,33.961543,-83.362385,11,19654,106 Burgundy Court,106,Burgundy Court,Athens,GA,30601,33.990595,-83.359375,11
+19481,160 Second Street,160,Second Street,Athens,GA,30601,33.962243,-83.367476,11,20524,Ofc,106,Burgundy Court,Athens,GA,30601,33.990595,-83.359375,4
+19740,174 Summerwood Place,174,Summerwood Place,Athens,GA,30601,33.9621,-83.367107,11,19860,Home,,205 Collins Industrial,Athens,GA,30601,33.980209,-83.350354,4
+19499,175 Vine Street,175,Vine Street,Athens,GA,30601,33.961074,-83.359806,11,20103,Test home 1,,205 Collins Industrial,Athens,GA,30601,33.980209,-83.350354,4
+19658,499 Martin Circle,499,Martin Circle,Athens,GA,30601,33.963555,-83.34776,11,19327,218 Collins Ind Boulevard,218,Collins Ind Boulevard,Athens,GA,30601,33.97975,-83.35049,11
+20301,Home,129,Martin Court,Athens,GA,30601,33.963555,-83.34776,4,20016,218 Collins Ind Boulevard,218,Collins Ind Boulevard,Athens,GA,30601,33.97975,-83.35049,11
+20678,Home,499,Martin Circle,Athens,GA,30601,33.963555,-83.34776,11,19512,120 Monty Drive,120,Monty Drive,Athens,GA,30601,33.989186,-83.365625,11
+19627,135 Summerwood Place,135,Summerwood Place,Athens,GA,30601,33.961745,-83.366937,11,20527,Ofc3,120,Monty Drive,Athens,GA,30601,33.989186,-83.365625,4
+19550,100 Hillside Street,100,Hillside Street,Athens,GA,30601,33.961266,-83.364403,11,19405,478 North Avenue,478,North Avenue,Athens,GA,30601,33.974126,-83.361562,11
+19329,160 Maxey Boulevard,160,Maxey Boulevard,Athens,GA,30601,33.976022,-83.384774,11,20649,225 Collins Ind Boulevard,225,Collins Ind Boulevard,Athens,GA,30601,33.982123,-83.349777,8
+19870,Home Test1,160,Maxey Boulevard,Athens,GA,30601,33.976022,-83.384774,4,19612,296 Old Hull Road,296,Old Hull Road,Athens,GA,30601,33.975381,-83.354255,11
+19874,Home,160,Maxey Boulevard,Athens,GA,30601,33.976022,-83.384774,4,19871,Home,296,Old Hull Road,Athens,GA,30601,33.975381,-83.354255,4
+19485,155 Summerwood Place,155,Summerwood Place,Athens,GA,30601,33.961384,-83.367766,11,19651,113 Loblolly Drive,113,Loblolly Drive,Athens,GA,30601,33.989766,-83.365072,11
+20472,3rd location,155,Summerwood Place,Athens,GA,30601,33.961384,-83.367766,4,19700,610 Creeks Edge Drive,610,Creeks Edge Drive,Athens,GA,30601,33.986225,-83.369301,11
+19438,160 Strong Street,160,Strong Street,Athens,GA,30601,33.963094,-83.372891,11,19511,121 Cabernet Street,121,Cabernet Street,Athens,GA,30601,33.990797,-83.356987,11
+20493,Office,160,Strong Street,Athens,GA,30601,33.963094,-83.372891,4,19334,715 Fourth Street,715,Fourth Street,Athens,GA,30601,33.973631,-83.35933,11
+19687,695 Indian Hills Road,695,Indian Hills Road,Athens,GA,30601,33.966031,-83.341869,11,20140,Hospital,180,Northside Drive,Athens,GA,30601,33.976519,-83.367796,4
+19974,Hi,106,Vine Circle,Athens,GA,30601,33.96018,-83.361175,4,20668,111 Nowhere Road,111,Nowhere Road,Athens,GA,30601,33.990619,-83.355745,11
+20500,106 Vine Circle,106,Vine Circle,Athens,GA,30601,33.96012,-83.361134,7,19545,150 Monty Drive,150,Monty Drive,Athens,GA,30601,33.989762,-83.366181,11
+20647,testabcdefe,160,Maxey Boulevard,Athens,GA,30601,33.976059,-83.385712,2,19745,445 Old Hull Road,445,Old Hull Road,Athens,GA,30601,33.97842,-83.35002,11
+19487,Aguar Plaza,123,Willow Street,Athens,GA,30601,33.961453,-83.369508,11,19415,531 Creek Hollow Way,531,Creek Hollow Way,Athens,GA,30601,33.988075,-83.3686,11
+19626,118 Vine Street,118,Vine Street,Athens,GA,30601,33.960197,-83.363704,11,19636,345 Boley Drive,345,Boley Drive,Athens,GA,30601,33.981136,-83.370917,11
+19725,129 Martin Court,129,Martin Court,Athens,GA,30601,33.961057,-83.351141,11,19414,170 Northside Drive,170,Northside Drive,Athens,GA,30601,33.975834,-83.367784,11
+19970,Best home,129,Martin Court,Athens,GA,30601,33.961057,-83.351141,4,20347,Testbest home,170,Northside Drive,Athens,GA,30601,33.975834,-83.367784,4
+20035,129 Martin Court,129,Martin Court,Atenas,GA,30601,33.961057,-83.351141,11,20551,Test999,170,Northside Drive,Athens,GA,30601,33.975834,-83.367784,4
+20104,Test home 2,129,Martin Court,Athens,GA,30601,33.961057,-83.351141,4,20790,170 Drive,170,Northside Drive,Athens,GA,30601,33.975834,-83.367784,4
+20328,,414,Martin Cir,Atenas,GA,30601,33.961664,-83.348879,1,20845,lisa home,170,Northside Drive,Athens,GA,30601,33.975834,-83.367784,4
+19711,130 First Street,130,First Street,Athens,GA,30601,33.960046,-83.364931,11,19525,322 North Avenue,322,North Avenue,Athens,GA,30601,33.973561,-83.363449,11
+19538,237 Doctor Martin Luther King Junior Parkway,237,Doctor Martin Luther King Junior Parkway,Athens,GA,30601,33.960164,-83.36714,11,19614,150 Creek Stone Drive,150,Creek Stone Drive,Athens,GA,30601,33.985335,-83.370574,11
+20922,,440,Foundry St,Athens,GA,30601,33.961715,-83.372195,1,20073,Home,150,Creek Stone Drive,Athens,GA,30601,33.985335,-83.370574,4
+19685,385 Martin Circle,385,Martin Circle,Athens,GA,30601,33.961044,-83.349236,11,20377,test,150,Creek Stone Drive,Athens,GA,30601,33.985335,-83.370574,4
+19683,150 Oliver Circle,150,Oliver Circle,Athens,GA,30601,33.96331,-83.344005,11,20546,105 Creek Stone Drive CPY,105,Creek Stone Drive,Athens,GA,30601,33.982123,-83.37124,7
+20092,3 home,150,Oliver Circle,Athens,GA,30601,33.96331,-83.344005,4,19795,U.S. 29,,U.s. 29,Athens,GA,30601,33.98172,-83.348635,11
+20799,HOME,150,Oliver Cir,Athens,GA,30601,33.963004,-83.344214,3,20560,600 Freeman Drive,600,Freeman Drive,Athens,GA,30601,33.991332,-83.363693,11
+19490,105 First Street,105,First Street,Athens,GA,30601,33.959595,-83.36615,11,19501,300 Old Hull Road,300,Old Hull Road,Athens,GA,30601,33.974826,-83.353051,11
+19678,235 North Bluff Road,235,North Bluff Road,Athens,GA,30607,34.00087,-83.377372,11,19733,265 Northcrest Drive,265,Northcrest Drive,Athens,GA,30601,33.978486,-83.370378,11
+19398,755 U.S. 29,755,U.s. 29,Athens,GA,30601,33.996125,-83.336962,11,19845,John,265,Northcrest Drive,Athens,GA,30601,33.978486,-83.370378,4
+19629,120 Willow Street,120,Willow Street,Athens,GA,30601,33.959888,-83.36814,11,19760,290 U.S. 29,290,U.s. 29,Athens,GA,30601,33.982334,-83.34831,11
+19657,175 Featherwood Hollow,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,11,20486,HOME,105,Cabernet St,Athens,GA,30601,33.991638,-83.356446,3
+19842,Home,1000,Old Creek Road,Athens,GA,30607,34.005272,-83.367528,4,19504,325 Boley Drive,325,Boley Drive,Athens,GA,30601,33.981584,-83.371581,11
+19852,Home1,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,4,19649,1350 Danielsville Road,1350,Danielsville Road,Athens,GA,30601,33.991259,-83.355162,11
+19945,Hospital,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,4,19799,Office,1350,Danielsville Road,Athens,GA,30601,33.991259,-83.355162,11
+20037,175 Featherwood,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,4,19519,527 Mossy Pointe,527,Mossy Pointe,Athens,GA,30601,33.986883,-83.370347,11
+20049,Frnd home,1000,Old Creek Road,Athens,GA,30607,34.005272,-83.367528,4,19722,492 Creek Hollow Way,492,Creek Hollow Way,Athens,GA,30601,33.987978,-83.369632,11
+20625,Home dd,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,4,19406,495 Ruth Street,495,Ruth Street,Athens,GA,30601,33.974126,-83.366755,11
+20682,Test home,175,Featherwood Hollow,Athens,GA,30601,34.005272,-83.367528,4,19425,355 Lake Street,355,Lake Street,Athens,GA,30601,33.978467,-83.371261,11
+19580,1950 Danielsville Road,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,11,19500,180 Creek Stone Drive,180,Creek Stone Drive,Athens,GA,30601,33.985811,-83.371555,11
+19839,Test008,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19520,171 Loblolly Drive,171,Loblolly Drive,Athens,GA,30601,33.990722,-83.3672,11
+19840,Test007,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19967,Test1,171,Loblolly Drive,Athens,GA,30601,33.990722,-83.3672,4
+19851,Home,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19507,105 Creek Stone Drive,105,Creek Stone Drive,Athens,GA,30601,33.982316,-83.37237,11
+19946,Hospital 2,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,20116,Test home,105,Creek Stone Drive,Athens,GA,30601,33.982316,-83.37237,4
+19948,Vv,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19689,294 Old Hull Road,294,Old Hull Road,Athens,GA,30601,33.973228,-83.35359,11
+19971,First home,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19421,360 Northside Drive,360,Northside Drive,Athens,GA,30601,33.978111,-83.371604,11
+20012,Ex,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19635,473 Creek Hollow Way,473,Creek Hollow Way,Athens,GA,30601,33.988325,-83.370574,11
+20071,Test home,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,4,19656,306 Old Hull Road,306,Old Hull Road,Athens,GA,30601,33.974228,-83.351636,11
+20075,Hom,1950,Danielsville Road,Athens,GA,30601,34.004616,-83.348866,11,20761,,217,Creek Stone Drive,Athens,GA,30601,33.985409,-83.372305,2
+20846,Jonas Avenue4,200,Olympic Drive,Athens,GA,30601,34.004616,-83.348866,11,19316,241 Collins Ind Boulevard,241,Collins Ind Boulevard,Athens,GA,30601,33.983735,-83.347056,11
+19474,1180 East Broad Street,1180,East Broad Street,Athens,GA,30601,33.958885,-83.366097,11,19603,250 North Avenue,250,North Avenue,Athens,GA,30601,33.972233,-83.364408,11
+19644,120 Foundry Street,120,Foundry Street,Athens,GA,30601,33.960051,-83.370706,11,19953,next home,250,North Avenue,Athens,GA,30601,33.972233,-83.364408,4
+19650,909 East Broad Street,909,East Broad Street,Athens,GA,30601,33.959278,-83.368171,11,19691,410 Creek Hollow Way,410,Creek Hollow Way,Athens,GA,30601,33.986653,-83.371922,11
+20702,337 Burkland Lane,337,Burkland Lane,Athens,GA,30601,34.006402,-83.357029,11,19402,265 North Avenue,265,North Avenue,Athens,GA,30601,33.972702,-83.36581,11
+19713,232 Vine Street,232,Vine Street,Athens,GA,30601,33.958251,-83.359272,11,19451,217 Creek Stone Drive,217,Creek Stone Drive,Athens,GA,30601,33.9853,-83.37272,11
+19726,2000 U.S. 29,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,11,20023,jhonny,217,Creek Stone Drive,Athens,GA,30601,33.9853,-83.37272,4
+19827,Test 123,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19417,124 Bridgewater Circle,124,Bridgewater Circle,Athens,GA,30601,33.978396,-83.372548,11
+19850,Home,175,Featherwood Hollow,Athens,GA,30601,33.997018,-83.336714,4,19743,130 Bridgewater Circle,130,Bridgewater Circle,Athens,GA,30601,33.97842,-83.372757,11
+19855,John,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,20466,Home,188,Collins Industrial Blvd,Athens,GA,30601,33.97842,-83.372757,4
+19936,TEST2,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,20469,Home,130,Bridgewater Circle,Athens,GA,30601,33.97842,-83.372757,4
+19937,old hull,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,20913,work,130,Bridgewater Circle,Athens,GA,30601,33.97842,-83.372757,4
+19938,old hull2,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19630,665 Fourth Street,665,Fourth Street,Athens,GA,30601,33.971029,-83.362128,11
+19940,old hull,201,Woodridge Circle,Athens,GA,30601,33.997018,-83.336714,4,20788,HOME,221,Bridgewater Cir,Athens,GA,30601,33.976984,-83.372292,3
+19972,Next home,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,20433,346 Old Hull Road,346,Old Hull Road,Athens,GA,30601,33.976564,-83.347825,11
+19973,Test,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19563,462 Ruth Street,462,Ruth Street,Athens,GA,30601,33.97411,-83.369982,11
+20087,Test home,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19436,300 U.S. 29,300,U.s. 29,Athens,GA,30601,33.98409,-83.345855,11
+20102,My home,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19418,700 Fourth Street,700,Fourth Street,Athens,GA,30601,33.971279,-83.354781,11
+20113,Friend home,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,20666,Save1,460,Old Hull Road,Athens,GA,30601,33.979627,-83.345896,4
+20244,123,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19628,590 Fourth Street,590,Fourth Street,Athens,GA,30601,33.970479,-83.36134,11
+20789,2000U.s,2000,U.s. 29,Athens,GA,30601,33.997018,-83.336714,4,19445,140 Wynter Court,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,11
+19696,905 East Broad Street,905,East Broad Street,Athens,GA,30601,33.958719,-83.368098,11,19838,Test009,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,4
+19751,225 Woodridge Circle,225,Woodridge Circle,Athens,GA,30601,33.961851,-83.343542,11,19933,GA,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,4
+20388,,190,Tibbetts St,Athens,GA,30601,33.966675,-83.382883,11,20031,GA1,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,11
+20420,Today 1,190,Tibbetts Street,Athens,GA,30601,33.966675,-83.382883,4,20349,Test1,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,4
+20252,Test123,120,Foundry Street,Athens,GA,30601,33.959505,-83.371471,2,20895,Test home,140,Wynter Court,Athens,GA,30601,33.972845,-83.368686,4
+19662,201 Woodridge Circle,201,Woodridge Circle,Athens,GA,30601,33.962045,-83.34276,11,20669,240 North Avenue,240,North Avenue,Athens,GA,30601,33.971624,-83.366365,11
+19694,920 East Broad Street,920,East Broad Street,Athens,GA,30601,33.958508,-83.368225,11,19731,1180 Commerce Road,1180,Commerce Road,Athens,GA,30607,33.979677,-83.374393,11
+19540,785 U.S. 29,785,U.s. 29,Athens,GA,30601,33.998462,-83.337013,11,19734,455 Calhoun Drive,455,Calhoun Drive,Athens,GA,30601,33.986297,-83.34574,11
+20460,2146 Danielsville Road,2146,Danielsville Road,Athens,GA,30601,34.003505,-83.344,11,19601,611 Fourth Street,611,Fourth Street,Athens,GA,30601,33.970152,-83.362957,11
+20358,,Null,Athens Perimeter,Athens,GA,30607,33.975099,-83.389052,1,19697,690 Fourth Street,690,Fourth Street,Athens,GA,30601,33.969791,-83.358521,11
+19676,181 Wilkerson Street,181,Wilkerson Street,Athens,GA,30601,33.957687,-83.367145,11,19746,221 Bridgewater Circle,221,Bridgewater Circle,Athens,GA,30601,33.976624,-83.37384,11
+19692,365 Cook Drive,365,Cook Drive,Athens,GA,30601,33.959547,-83.346088,11,19723,461 Calhoun Drive,461,Calhoun Drive,Athens,GA,30601,33.986122,-83.344964,11
+20691,Burgundy,106,Burgundy Court,Athens,GA,30601,33.959547,-83.346088,4,20626,Home dd,224,Nowhere Road,Athens,GA,30601,33.9955,-83.360355,4
+19680,207 Featherwood Hollow,207,Featherwood Hollow,Athens,GA,30601,34.005176,-83.373923,11,19435,421 Bridgewater Way,421,Bridgewater Way,Athens,GA,30601,33.977827,-83.374951,11
+20528,Test1,1775,Olympic Drive,Athens,GA,30601,33.99,-83.33,4,19471,430 Bridgewater Way,430,Bridgewater Way,Athens,GA,30601,33.977159,-83.374725,11
+20556,test home,1775,Olympic Drive,Athens,GA,30601,33.99,-83.33,4,19348,186 trail creek road,200,Dropoff Ave,Athens,GA,30601,33.9691,-83.3615,11
+19429,937 Hull Road,937,Hull Road,Athens,GA,30601,33.995583,-83.331816,11,19975,Bi,,205 Collins Industrial,Athens,GA,30601,33.9691,-83.3615,4
+19526,524 Vine Street,524,Vine Street,Athens,GA,30601,33.955668,-83.355996,11,19976,Bi,,205 Collins Industrial,Athens,GA,,33.9691,-83.3615,0
+20818,HOME,521,N Hull St,Athens,GA,30601,33.960677,-83.379464,3,19977,Bi,,205 Collins Industrial,Athens,GA,,33.9691,-83.3615,1
+19661,445 Catalpa Court,445,Catalpa Court,Athens,GA,30601,34.009096,-83.353303,11,20367,try home,580,Fourth Street,Athens,GA,30601,33.9691,-83.3615,4
+20653,100 Freeman Drive,100,Freeman Drive,Athens,GA,30601,33.999,-83.333,6,20911,Home,580,Fourth Street,Athens,GA,30601,33.9691,-83.3615,4
+19605,169 West Washington Street,169,West Washington Street,Athens,GA,30601,33.95857,-83.37831,11,20924,186 Trail Creek Road,200,Trail Creek Rd,Athens,GA,30601,33.9691,-83.3615,11
+20473,Home,169,West Washington Street,Athens,GA,30601,33.95857,-83.37831,4,20951,186 Trail Creek Road,200,Trail Creek Rd,Athens,GA,30601,33.9691,-83.3615,11
+19011,,100,Prince Ave,Athens,GA,30601,33.96036,-83.381327,11,19604,580 Fourth Street,580,Fourth Street,Athens,GA,30601,33.968983,-83.360635,11
+19844,Road123,100,Prince Avenue,Athens,GA,30601,33.96036,-83.381327,4,19737,400 Ruth Street,400,Ruth Street,Athens,GA,30601,33.973939,-83.372837,11
+20910,Test home,100,Prince Avenue,Athens,GA,30601,33.96036,-83.381327,4,21073,21 Pine Lane Drive,21,Pine Lane Drive,Athens,GA,30601,33.99566,-83.356066,11
+20429,Hydrate GA,100,Prince Ave,Athens,GA,30601,33.960526,-83.381574,11,19757,515 Olympic Drive,515,Olympic Drive,Athens,GA,30601,33.96953,-83.353635,11
+19014,,200,Newton Bridge Rd,Athens,GA,30607,33.984304,-83.394548,11,19655,430 Monty Drive,430,Monty Drive,Athens,GA,30601,33.993254,-83.370357,11
+19868,Home Test,200,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,19437,110 1/2 Commerce Road,110 1/2,Commerce Road,Athens,GA,30607,33.978254,-83.375981,11
+19869,Home Test1,200,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,19488,570 Fourth Street,570,Fourth Street,Athens,GA,30601,33.968501,-83.361797,11
+19951,Home,300,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,20137,Bar,216,North Avenue,Athens,GA,30601,33.969348,-83.366098,4
+20468,Test1,197,Collins Industrial Blvd,Athens,GA,30601,33.984304,-83.394548,4,20694,jonas avenue,133,Jonas Avenue,Athens,GA,30601,33.969348,-83.366098,4
+20515,Save Test1,200,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,19539,209 Trail Creek Street,209,Trail Creek Street,Athens,GA,30601,33.968297,-83.3609,11
+20517,Save1,200,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,19493,101 Fern Ridge Court,101,Fern Ridge Court,Athens,GA,30601,33.977541,-83.375938,11
+20555,Home,200,Newton Bridge Road,Athens,GA,30607,33.984304,-83.394548,4,20257,,101,Fern Ridge Court,Athens,GA,30601,33.97738,-83.375901,2
+19659,260 Featherwood Hollow,260,Featherwood Hollow,Athens,GA,30601,34.00871,-83.374659,11,20476,My Office,101,Fern Ridge Court,Athens,GA,30601,33.97738,-83.375901,4
